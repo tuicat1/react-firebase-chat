@@ -21,7 +21,7 @@ This project is a real-time chat application built with React and Firebase. It a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-firebase-chat.git
+   git clone https://github.com/tuicat1/react-firebase-chat.git
 
 Navigate into the project directory:
 
