@@ -27,9 +27,5 @@ Navigate into the project directory:
 
   ```bash
   cd react-firebase-chat
+  npm install
 
-Install dependencies:
-
-```bash
-
-    npm install
